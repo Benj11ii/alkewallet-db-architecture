@@ -28,5 +28,6 @@ El archivo `AlkeWallet.sql` incluido en este repositorio contiene los scripts pa
 5. Simulaciones de seguridad financiera aplicando principios **ACID** (`START TRANSACTION`, `COMMIT`, `ROLLBACK`).
 
 ---
-*Desarrollado por Benjamín Alonso Carmona*
-
+**Arquitectura y Diseño de Datos por:**  
+Benjamín Alonso Carmona Vega — Desarrollador Backend & Database Designer  
+https://www.iasesoria.cl
